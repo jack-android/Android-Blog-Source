@@ -1,4 +1,4 @@
-# 我的博客实例库（http://blog.csdn.net/yanbober）
+# 博客实例库（http://blog.csdn.net/yanbober）
 
 ##示例索引
 
